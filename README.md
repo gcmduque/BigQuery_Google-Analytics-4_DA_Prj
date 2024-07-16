@@ -8,6 +8,8 @@ A DA project that uses BigQuery to clean and analyze e-commerce data from Bigque
 - Task 3. Comparing conversion rates between different landing pages
 - Task 4. Checking the correlation between user engagement and purchases
 
+Click here for the [Project Documentation](https://docs.google.com/spreadsheets/d/18b8rj-Bv4Vh2dJbXTro2RHzMcz2egU3WZTZtBUyvRQ8/edit?gid=661469591#gid=661469591) to see the complete details.
+
 ### Data Sources
 The primary data source for this project is from "bigquery-public-data.ga4_obfuscated_sample_ecommerce", a public dataset collected with Google Analytics 4 in the Google Web Store.
 - Link: [public dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table)
@@ -20,7 +22,7 @@ For this project, I used DBeaver for both data cleaning and analysis. I was able
 - **SQL Queries**: COntainse SQL queries used to clean and analyze the dataset.
 - **SQL Query Output Data**: Contains the output data from each query.
   
-[click here](https://drive.google.com/drive/folders/1-gFmjZ4GVrnRM0SNZVXkE7V04DqAVE-K?usp=sharing)
+[click here](https://drive.google.com/drive/folders/1-gFmjZ4GVrnRM0SNZVXkE7V04DqAVE-K?usp=sharing) to view the files.
 
   
   
